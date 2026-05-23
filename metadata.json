@@ -1,0 +1,6 @@
+{
+  "name": "Lettore Documenti",
+  "description": "Un'applicazione Material 3 per convertire i tuoi documenti di testo in audio vocale chiaro, con controllo della velocità, del tono e evidenziazione del testo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

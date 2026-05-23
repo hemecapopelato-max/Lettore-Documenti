@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer Glow or subtle depth behind icon -->
+    <path
+        android:fillColor="#15D0BCFF"
+        android:pathData="M 54,22 C 36.3,22 22,36.3 22,54 C 22,71.7 36.3,86 54,86 C 71.7,86 86,71.7 86,54 C 86,36.3 71.7,22 54,22 Z" />
+
+    <!-- Stylized Document Sheet -->
+    <!-- Base paper white contour -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:fillType="nonZero"
+        android:pathData="M 36,28 C 36,26.3 37.3,25 39,25 L 61,25 L 72,36 L 72,79 C 72,80.7 70.7,82 69,82 L 39,82 C 37.3,82 36,80.7 36,79 Z" />
+
+    <!-- Folded paper fold corner -->
+    <path
+        android:fillColor="#FFE0E0F0"
+        android:pathData="M 61,25 L 61,34 C 61,35.1 61.9,36 63,36 L 72,36 Z" />
+
+    <!-- High-frequency audio sound waves overlay representing TTS -->
+    <!-- Sound wave line 1 (tallest, centered) -->
+    <path
+        android:fillColor="#FFD0BCFF"
+        android:pathData="M 52.5,42 C 53.3,42 54,42.7 54,43.5 L 54,64.5 C 54,65.3 53.3,66 52.5,66 C 51.7,66 51,65.3 51,64.5 L 51,43.5 C 51,42.7 51.7,42 52.5,42 Z" />
+
+    <!-- Sound wave line 2 (left of center) -->
+    <path
+        android:fillColor="#FF8060FF"
+        android:pathData="M 46.5,47 C 47.3,47 48,47.7 48,48.5 L 48,59.5 C 48,60.3 47.3,61 46.5,61 C 45.7,61 45,60.3 45,59.5 L 45,48.5 C 45,47.7 45.7,47 46.5,47 Z" />
+
+    <!-- Sound wave line 3 (right of center) -->
+    <path
+        android:fillColor="#FF8060FF"
+        android:pathData="M 58.5,45 C 59.3,45 60,45.7 60,46.5 L 60,61.5 C 60,62.3 59.3,63 58.5,63 C 57.7,63 57,62.3 57,61.5 L 57,46.5 C 57,45.7 57.7,45 58.5,45 Z" />
+
+    <!-- Sound wave line 4 (far left edge) -->
+    <path
+        android:fillColor="#FF331166"
+        android:pathData="M 40.5,51 C 41.3,51 42,51.7 42,52.5 L 42,55.5 C 42,56.3 41.3,57 40.5,57 C 39.7,57 39,56.3 39,55.5 L 39,52.5 C 39,51.7 39.7,51 40.5,51 Z" />
+
+    <!-- Sound wave line 5 (far right edge) -->
+    <path
+        android:fillColor="#FF331166"
+        android:pathData="M 64.5,50 C 65.3,50 66,50.7 66,51.5 L 66,56.5 C 66,57.3 65.3,58 64.5,58 C 63.7,58 63,57.3 63,56.5 L 63,51.5 C 63,50.7 63.7,50 64.5,50 Z" />
+
+</vector>
